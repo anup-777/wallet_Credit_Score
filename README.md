@@ -53,3 +53,11 @@ Score Assignment (0–1000 by cluster)
    - `wallet_credit_scores.csv`
    - `score_distribution.png` (graph)
    - `analysis.md` (wallet behavior insights)
+
+
+----
+## Dataset
+
+The transaction data used for wallet scoring is available at:  
+[Download JSON from Google Drive](https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing)
+
